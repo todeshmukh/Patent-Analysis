@@ -1,0 +1,10 @@
+host="localhost"
+username="root"
+password=""
+database="patentanalysis"
+api_key="67ca3c0464e043f9bd80cd1a9fdc5471"
+PROJECT_DIR = "D:/work/project/TwitterSpammerDetection/python_code";
+consumer_key="RQjLv9e1n3fU2PjHTDsum2DkZ"
+consumer_secret="y2MrBBg1lPoXC9RerfAwuNk2urIdyTUOizCawaE5m1PTx5QaoD"
+access_token="3002882029-24U2bkwJR3FyMRLV0VAHgdqRqffaoZl8Iit40WN"
+access_token_secret="C09C4JwLeRsCFJYtPGZPYW8ns6OAxgUeCZRIxRHTRrkZJ"
